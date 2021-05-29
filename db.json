@@ -1,0 +1,36 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "name": "iphone 12",
+      "prix": 12000,
+      "quantity": 20,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "iphone 8",
+      "prix": "5000",
+      "quantity": 34,
+      "selected": false,
+      "available": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "tajine",
+      "prix": 60,
+      "quantity": 150,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "chaise",
+      "prix": "200",
+      "quantity": 90,
+      "selected": false,
+      "available": true,
+      "id": 4
+    }
+  ]
+}
